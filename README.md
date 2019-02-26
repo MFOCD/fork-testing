@@ -3,7 +3,7 @@ Testing and practicing forks!
 
 Here are a bunch of words!
 
-I wish I had cured salami. That is a food!
+I wish I had a million slices of salami. That is a food!
 
 Here's a joke about video editors.
 
