@@ -3,7 +3,7 @@ Testing and practicing forks!
 
 Here are a bunch of words!
 
-I wish I had a million slices of salami and could sell it!
+I wish I had a million slices of salami and could sell it! That is a food!
 
 Here's a joke about video editors.
 
@@ -12,3 +12,13 @@ Here's a joke about video editors.
 * Stripes
 
 * Jeff
+
+## Food
+
+* Fruit
+
+* Vegetables
+
+* Meat
+
+* Cheese
