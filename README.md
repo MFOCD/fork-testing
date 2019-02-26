@@ -1,4 +1,4 @@
 # fork-testing
-Testing forks!
+Testing and practicing forks!
 
-Here are a bunch of wurds!
+Here are a bunch of words!
